@@ -55,7 +55,7 @@ console.log(`Resultado custom - Medalhas de Ouro no continente Asiático: ${resu
 
 /* DESAFIOS - CONCLUA AS FUNÇÕES customSome, customFind E UTILIZANDO TODAS AS FUNÇÕES 'CUSTOM' CONCLUA OS DESAFIOS ABAIXO: */
 
-// 1 - Crie um algoritimo que encontre o único pais do continente Africano
+// 1 - Crie um algoritmo que encontre o único pais do continente Africano
 // const paisAfricano =  <seu código aqui>;
 // console.log(paisAfricano);
 
