@@ -28,8 +28,14 @@ obs: Tente concluir todo o desafio, mas se não conseguir, tá tudo certo. Pode 
 
 # Já resolvi alguns desafios, como faço para rodar o código?
 
+## Instalando o node e rodando localmente
+
 1. Instalar o [Node](https://nodejs.org/en/)
-2. Para rodar `node desafio.js`
+2. Para rodar execute `node desafio.js`
+
+## ou utilizando um editor JS online
+
+1. Exemplo: https://playcode.io/
 
 # Quero enviar meu desafio, como faço :D ?
 
