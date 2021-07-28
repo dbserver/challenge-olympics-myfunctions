@@ -26,14 +26,14 @@ obs: Tente concluir todo o desafio, mas se não conseguir, tá tudo certo. Pode 
 2. Acessar o arquivo [desafio.js](https://github.com/dbserver/challenge-olympics-myfunctions/blob/main/desafio.js)
 3. Resolver os desafios que estão comentados no [código](https://github.com/dbserver/challenge-olympics-myfunctions/blob/main/desafio.js)
 
-# Já resolvi alguns desafios, como faço para rodar o código?
+# Como faço para rodar o código?
 
-## Instalando o node e rodando localmente
+## Instalando o Node e rodando localmente
 
 1. Instalar o [Node](https://nodejs.org/en/)
 2. Para rodar execute `node desafio.js`
 
-## ou utilizando um editor JS online
+## Ou utilizando um editor JS online
 
 1. Exemplo: https://playcode.io/
 
